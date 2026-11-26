@@ -5,5 +5,7 @@
         <intent>
             <action android:name="intent.chess.provider.ENGINE" />
         </intent>
+        <package android:name="com.stockfish141" />
+        <package android:name="org.stockfishchess.android" />
     </queries>
 </manifest>

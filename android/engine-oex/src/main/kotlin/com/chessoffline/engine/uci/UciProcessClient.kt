@@ -85,12 +85,16 @@ class UciProcessClient(
 
             val uciOkDeferred = CompletableDeferred<Unit>()
             val readyOkDeferred = CompletableDeferred<Unit>()
+            val recentOutput = ArrayDeque<String>(8)
 
             readerJob = scope.launch {
                 val reader = BufferedReader(InputStreamReader(proc.inputStream))
                 try {
                     while (isActive) {
                         val line = reader.readLine() ?: break
+                        if (recentOutput.size >= 8) recentOutput.removeFirst()
+                        recentOutput.addLast(line)
+
                         UciParser.parseIdName(line)?.let { detectedUciName = it }
                         UciParser.parseOptionName(line)?.let { supportedOptions.add(it) }
 
@@ -102,18 +106,19 @@ class UciProcessClient(
                         }
                         _stdoutLines.tryEmit(line)
                     }
-                } catch (_: Exception) {
-                    // Fermeture de flux attendue à l'arrêt du moteur
+                } catch (e: Exception) {
+                    if (recentOutput.size < 8) recentOutput.addLast("readLine: ${e.message}")
                 } finally {
                     isRunning = false
+                    val tail = if (recentOutput.isEmpty()) "" else " (${recentOutput.joinToString(" | ")})"
                     if (!uciOkDeferred.isCompleted) {
                         uciOkDeferred.completeExceptionally(
-                            OexError.EngineCrash(engineInfo.displayName, "Flux terminé avant uciok")
+                            OexError.EngineCrash(engineInfo.displayName, "Flux terminé avant uciok$tail")
                         )
                     }
                     if (!readyOkDeferred.isCompleted) {
                         readyOkDeferred.completeExceptionally(
-                            OexError.EngineCrash(engineInfo.displayName, "Flux terminé avant readyok")
+                            OexError.EngineCrash(engineInfo.displayName, "Flux terminé avant readyok$tail")
                         )
                     }
                 }

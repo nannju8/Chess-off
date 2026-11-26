@@ -1,6 +1,7 @@
 package com.chessoffline.engine
 
 import android.content.Context
+import com.chessoffline.engine.oex.OexDiagnosticReport
 import com.chessoffline.engine.oex.OexDiscovery
 import com.chessoffline.engine.oex.OexEngineInfo
 import com.chessoffline.engine.oex.OexError
@@ -35,7 +36,10 @@ sealed class EngineConnectionState {
         val availableEngines: List<OexEngineInfo>
     ) : EngineConnectionState()
 
-    data class Error(val error: OexError) : EngineConnectionState()
+    data class Error(
+        val error: OexError,
+        val diagnostics: OexDiagnosticReport? = null
+    ) : EngineConnectionState()
 }
 
 /**
@@ -66,23 +70,28 @@ class StockfishCoordinator(
 
     private var client: UciProcessClient? = null
     private var analysisJob: Job? = null
+    @Volatile
+    private var lastDiagnostics: OexDiagnosticReport? = null
 
     suspend fun initializeDefaultEngine(preferredEngineId: String? = null): Result<String> {
         _connectionState.value = EngineConnectionState.Discovering
-        val engines = OexDiscovery.discoverEngines(appContext)
+        val discovery = OexDiscovery.discoverEnginesWithDiagnostics(appContext)
+        lastDiagnostics = discovery.diagnostics
+        val engines = discovery.engines
         if (engines.isEmpty()) {
             val err = OexError.NoEngineInstalled
-            _connectionState.value = EngineConnectionState.Error(err)
+            _connectionState.value = EngineConnectionState.Error(err, discovery.diagnostics)
             return Result.failure(err)
         }
 
         val chosen = engines.find { it.id == preferredEngineId } ?: engines.first()
-        return connectToEngine(chosen, engines)
+        return connectToEngine(chosen, engines, discovery.diagnostics)
     }
 
     suspend fun connectToEngine(
         engineInfo: OexEngineInfo,
-        allEngines: List<OexEngineInfo>? = null
+        allEngines: List<OexEngineInfo>? = null,
+        diagnostics: OexDiagnosticReport? = lastDiagnostics
     ): Result<String> {
         stopAnalysis()
         client?.stop()
@@ -102,7 +111,8 @@ class StockfishCoordinator(
         } else {
             val err = (res.exceptionOrNull() as? OexError)
                 ?: OexError.EngineCrash(engineInfo.displayName, res.exceptionOrNull()?.message ?: "Erreur inconnue")
-            _connectionState.value = EngineConnectionState.Error(err)
+            val updatedDiag = diagnostics?.copy(lastExecutionError = err.messageFr)
+            _connectionState.value = EngineConnectionState.Error(err, updatedDiag)
             Result.failure(err)
         }
     }

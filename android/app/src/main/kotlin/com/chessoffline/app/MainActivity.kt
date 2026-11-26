@@ -395,10 +395,11 @@ fun ChessMainScreen(viewModel: ChessViewModel = viewModel()) {
     }
 
     if (state.showNoEngineDialog) {
-        val err = (state.engineState as? EngineConnectionState.Error)?.error
-            ?: OexError.NoEngineInstalled
+        val errorState = state.engineState as? EngineConnectionState.Error
+        val err = errorState?.error ?: OexError.NoEngineInstalled
         NoOexEngineDialog(
             error = err,
+            diagnostics = errorState?.diagnostics,
             onRetryDetection = { viewModel.discoverAndInitEngine() },
             onSwitchToTwoPlayers = {
                 viewModel.dismissNoEngineDialog()
