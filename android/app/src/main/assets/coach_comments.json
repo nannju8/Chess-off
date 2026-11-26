@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "player_brilliant_01",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "{playedMove} ! Un sacrifice que peu de joueurs osent : tu donnes du matériel pour gagner en activité, et la position te donne raison."
+  },
+  {
+    "id": "player_brilliant_02",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "Magnifique, {playedMove} est un coup brillant. Retiens le schéma : quand les pièces adverses sont mal placées, un sacrifice peut tout faire basculer."
+  },
+  {
+    "id": "player_brilliant_03",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "{playedMove} n'est pas évident du tout, parce qu'il va à l'encontre de l'instinct de protection. C'est exactement ça, un coup brillant."
+  },
+  {
+    "id": "player_brilliant_04",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "Bravo pour {playedMove} ! Tu as calculé plus loin que la prise immédiate, et c'est ce qui fait la différence."
+  },
+  {
+    "id": "player_brilliant_05",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "Voilà un sacrifice sain : {playedMove} ouvre des lignes et met le roi adverse en difficulté. Garde ce réflexe."
+  },
+  {
+    "id": "player_brilliant_06",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "Excellent {playedMove}. Remarque comme le matériel perdu compte peu face à l'initiative que tu viens de gagner."
+  },
+  {
+    "id": "player_brilliant_07",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "{playedMove} ! Ici, la tactique l'emporte sur le matériel. Tu as vu la combinaison jusqu'au bout, c'est remarquable."
+  },
+  {
+    "id": "player_brilliant_08",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "Coup brillant : {playedMove} paraît risqué, mais chaque variante tourne à ton avantage. C'est le fruit d'un calcul précis."
+  },
+  {
+    "id": "player_brilliant_09",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "Très beau {playedMove}. Les meilleurs sacrifices sont ceux qui s'expliquent après coup : tout se tient dans cette position."
+  },
+  {
+    "id": "player_brilliant_10",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "pedagogue",
+    "text": "{playedMove} ! Tu viens de trouver l'idée cachée de la position. Prends le temps de revoir ce motif, il reviendra."
+  },
+  {
+    "id": "player_brilliant_11",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "{playedMove}. Brillant, je le reconnais. Maintenant, concentre-toi : une belle idée ne vaut rien si tu relâches la suite."
+  },
+  {
+    "id": "player_brilliant_12",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "Je ne distribue pas ça souvent : {playedMove} est un coup brillant. Ne gâche pas ton avantage."
+  },
+  {
+    "id": "player_brilliant_13",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "{playedMove} est exact, et il fallait le calculer jusqu'au bout. Continue avec la même rigueur."
+  },
+  {
+    "id": "player_brilliant_14",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "Sacrifice validé : {playedMove}. Reste sérieux, la partie n'est pas encore gagnée."
+  },
+  {
+    "id": "player_brilliant_15",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "Correct, et même brillant avec {playedMove}. Voilà le niveau que j'attends de toi à chaque coup."
+  },
+  {
+    "id": "player_brilliant_16",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "{playedMove} : ça, c'est de la précision. Garde la tête froide et convertis proprement."
+  },
+  {
+    "id": "player_brilliant_17",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "Rien à redire sur {playedMove}. Un sacrifice juste demande de la discipline, et tu en as fait preuve."
+  },
+  {
+    "id": "player_brilliant_18",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "strict",
+    "text": "{playedMove} force le respect. Mais l'adversaire va se défendre : reste vigilant."
+  },
+  {
+    "id": "player_brilliant_19",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "Oh, {playedMove} ! Tu sors un sacrifice comme ça, sans prévenir ? Tu me fais presque peur."
+  },
+  {
+    "id": "player_brilliant_20",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "{playedMove}... Avoue-le, tu as passé la nuit à préparer ça. Bien joué, quand même."
+  },
+  {
+    "id": "player_brilliant_21",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "Un sacrifice ! {playedMove} ! Ma dame en tremble encore. Joli coup, petit malin."
+  },
+  {
+    "id": "player_brilliant_22",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "Wow, {playedMove}. Tu as caché ce talent depuis le début de la partie, traître."
+  },
+  {
+    "id": "player_brilliant_23",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "{playedMove} ? Tu sacrifices comme un joueur qui n'a plus rien à perdre. Et ça marche, le culot !"
+  },
+  {
+    "id": "player_brilliant_24",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "Bon, {playedMove} est brillant. Je note de ne plus te sous-estimer... enfin, pas trop."
+  },
+  {
+    "id": "player_brilliant_25",
+    "category": "PLAYER_BRILLIANT",
+    "tone": "taquin",
+    "text": "Là, {playedMove}, tu m'as eu. Je vais faire semblant de ne pas être impressionné, mais c'est raté."
+  },
+  {
+    "id": "player_best_move_01",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} : c'est le seul coup qui tient la position. Dans ce genre de moment critique, bien jouer demande un vrai effort de calcul."
+  },
+  {
+    "id": "player_best_move_02",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "Bien vu, {playedMove} ! La position était délicate, et tu as choisi la meilleure réponse."
+  },
+  {
+    "id": "player_best_move_03",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} est le meilleur coup ici. Remarque comment il résout à la fois ta faiblesse et la menace adverse."
+  },
+  {
+    "id": "player_best_move_04",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "Position difficile, mais {playedMove} la règle avec précision. C'est exactement l'état d'esprit à cultiver."
+  },
+  {
+    "id": "player_best_move_05",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "Tu as trouvé {playedMove}, le coup que le moteur choisirait aussi. Garde l'habitude de comparer toutes les options."
+  },
+  {
+    "id": "player_best_move_06",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} : un coup discret mais précis. Souvent, le meilleur coup n'est pas le plus spectaculaire."
+  },
+  {
+    "id": "player_best_move_07",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "Très bien, {playedMove} ! Tu as évité le piège le plus tentant de la position pour choisir la voie solide."
+  },
+  {
+    "id": "player_best_move_08",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "Voilà un excellent réflexe : {playedMove} répond exactement à ce que demande la position."
+  },
+  {
+    "id": "player_best_move_09",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} montre que tu as bien lu les menaces. Anticiper les idées adverses, c'est la moitié du jeu."
+  },
+  {
+    "id": "player_best_move_10",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "pedagogue",
+    "text": "Le meilleur coup était {playedMove}, et tu l'as trouvé. Prends un instant pour comprendre pourquoi les autres échouaient."
+  },
+  {
+    "id": "player_best_move_11",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "{playedMove}. C'est le meilleur coup. Voilà ce que j'attends de toi dans les moments critiques."
+  },
+  {
+    "id": "player_best_move_12",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "Exact : {playedMove}. Il n'y avait pas d'autre solution, et tu l'as vu."
+  },
+  {
+    "id": "player_best_move_13",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "{playedMove} est précis. Ne baisse pas ta garde pour autant."
+  },
+  {
+    "id": "player_best_move_14",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "Bon coup, le meilleur même : {playedMove}. Maintiens cette concentration jusqu'à la fin."
+  },
+  {
+    "id": "player_best_move_15",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "{playedMove}, c'est correct. Dans une position pareille, la moindre approximation se paie cher."
+  },
+  {
+    "id": "player_best_move_16",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "Je valide {playedMove}. Rigueur et calcul, c'est comme ça qu'on progresse."
+  },
+  {
+    "id": "player_best_move_17",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "strict",
+    "text": "{playedMove} : seule bonne option, trouvée. Maintenant, enchaîne avec la même exigence."
+  },
+  {
+    "id": "player_best_move_18",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "Tiens, {playedMove} ! Tu as trouvé le seul coup. J'espérais secrètement que tu craquerais."
+  },
+  {
+    "id": "player_best_move_19",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove}... Zut, tu as vu la bonne réponse. Je comptais sur ta distraction."
+  },
+  {
+    "id": "player_best_move_20",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "Bien joué, {playedMove} ! Tu m'enlèves tout espoir de te voir faire une bêtise."
+  },
+  {
+    "id": "player_best_move_21",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove} : le meilleur coup, et sans trembler. Tu me gâches le plaisir, là."
+  },
+  {
+    "id": "player_best_move_22",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "Oh, tu connais {playedMove} ! Quelqu'un a révisé ses finales, on dirait."
+  },
+  {
+    "id": "player_best_move_23",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove}, évidemment. Tu ne pouvais pas te tromper juste une fois, pour me faire plaisir ?"
+  },
+  {
+    "id": "player_best_move_24",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "Pas mal, {playedMove} ! Je vais devoir sortir mes meilleures idées contre toi."
+  },
+  {
+    "id": "player_best_move_25",
+    "category": "PLAYER_BEST_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove} ! Même moi, j'aurais hésité. Bon, je ne l'avouerai pas deux fois."
+  },
+  {
+    "id": "player_good_move_01",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} est un coup solide : il développe ta position sans créer de faiblesse. C'est comme ça qu'on construit une partie."
+  },
+  {
+    "id": "player_good_move_02",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "Bien joué, {playedMove}. Pas spectaculaire, mais il améliore ta pièce la moins active, et c'est un excellent réflexe."
+  },
+  {
+    "id": "player_good_move_03",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} suit les bons principes : activité, sécurité, simplicité. Continue sur cette voie."
+  },
+  {
+    "id": "player_good_move_04",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "Joli coup avec {playedMove}. Il renforce ton centre et limite les options de ton adversaire."
+  },
+  {
+    "id": "player_good_move_05",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} est raisonnable et bien placé. Souvent, aux échecs, jouer simplement et juste suffit."
+  },
+  {
+    "id": "player_good_move_06",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "Tu as choisi {playedMove}, et c'est un bon choix : il garde ta structure saine tout en préservant ta flexibilité."
+  },
+  {
+    "id": "player_good_move_07",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "Bon coup, {playedMove} ! Tu poses une pièce sur une case utile sans te précipiter."
+  },
+  {
+    "id": "player_good_move_08",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} montre que tu penses en plans, pas seulement en coups isolés. C'est ce qui fait progresser."
+  },
+  {
+    "id": "player_good_move_09",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "Solide, {playedMove}. Tu as évité la tentation d'attaquer trop vite et préparé la suite avec patience."
+  },
+  {
+    "id": "player_good_move_10",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "pedagogue",
+    "text": "{playedMove} répond bien à la position. Remarque comment il coordonne tes pièces sans rien affaiblir."
+  },
+  {
+    "id": "player_good_move_11",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "{playedMove}. Correct. Maintiens ce niveau de sérieux sur les coups suivants."
+  },
+  {
+    "id": "player_good_move_12",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "Rien à reprocher à {playedMove}. Continue à jouer proprement."
+  },
+  {
+    "id": "player_good_move_13",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "{playedMove} est un bon coup. Mais ne te relâche pas : l'adversaire n'a pas dit son dernier mot."
+  },
+  {
+    "id": "player_good_move_14",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "Coup solide avec {playedMove}. C'est la base : pas de cadeau, pas de faiblesse."
+  },
+  {
+    "id": "player_good_move_15",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "{playedMove}, c'est propre. Voilà la discipline qu'il faut garder du début à la fin."
+  },
+  {
+    "id": "player_good_move_16",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "Validé : {playedMove}. Concentre-toi, la partie se joue sur la régularité."
+  },
+  {
+    "id": "player_good_move_17",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "{playedMove} tient la position. Reste attentif aux menaces à chaque coup."
+  },
+  {
+    "id": "player_good_move_18",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "strict",
+    "text": "Bon choix, {playedMove}. J'attends la même précision au prochain coup."
+  },
+  {
+    "id": "player_good_move_19",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "Tiens, {playedMove}, un coup sage et raisonnable. On dirait que tu as lu un livre de principes !"
+  },
+  {
+    "id": "player_good_move_20",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove}, c'est solide. Un peu ennuyeux, même, mais efficace."
+  },
+  {
+    "id": "player_good_move_21",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "Oh, un coup propre avec {playedMove}. Tu essaies de me faire croire que tu sais jouer ?"
+  },
+  {
+    "id": "player_good_move_22",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove} ? Pas de bêtise cette fois. Je suis presque déçu."
+  },
+  {
+    "id": "player_good_move_23",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "Bien joué, {playedMove}. Ne prends pas la grosse tête, je te surveille."
+  },
+  {
+    "id": "player_good_move_24",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "{playedMove}, sérieux, discret, efficace. Un vrai petit moine des échecs."
+  },
+  {
+    "id": "player_good_move_25",
+    "category": "PLAYER_GOOD_MOVE",
+    "tone": "taquin",
+    "text": "Hmm, {playedMove} est bon. Je vais devoir m'appliquer un peu plus, moi."
+  },
+  {
+    "id": "player_inaccuracy_01",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "{playedMove} est jouable, mais {bestMove} était un peu plus précis. Ce n'est qu'une petite nuance, mais elle compte à haut niveau."
+  },
+  {
+    "id": "player_inaccuracy_02",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "Petite imprécision : avec {playedMove}, tu laisses un léger avantage à ton adversaire. {bestMove} gardait mieux la situation en main."
+  },
+  {
+    "id": "player_inaccuracy_03",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "{playedMove} n'est pas mauvais, mais {bestMove} améliorait davantage ta position. Pense à comparer deux ou trois candidats."
+  },
+  {
+    "id": "player_inaccuracy_04",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, tu perds un peu d'activité. {bestMove} aurait mieux coordonné tes pièces."
+  },
+  {
+    "id": "player_inaccuracy_05",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "Rien de grave avec {playedMove}, mais regarde {bestMove} : il pose un problème plus concret à ton adversaire."
+  },
+  {
+    "id": "player_inaccuracy_06",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "{playedMove} manque un peu de précision. {bestMove} était plus ambitieux et gardait plus de tension."
+  },
+  {
+    "id": "player_inaccuracy_07",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "Petit raté : {playedMove} laisse passer une meilleure idée, {bestMove}. Tu progresseras en cherchant ce genre de coup plus souvent."
+  },
+  {
+    "id": "player_inaccuracy_08",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "{playedMove} garde la partie équilibrée, mais {bestMove} offrait un petit plus. Ce sont ces détails qui font gagner des parties."
+  },
+  {
+    "id": "player_inaccuracy_09",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, tu as joué un coup naturel. {bestMove} était simplement un peu plus fort ici, à retenir."
+  },
+  {
+    "id": "player_inaccuracy_10",
+    "category": "PLAYER_INACCURACY",
+    "tone": "pedagogue",
+    "text": "{playedMove} est une demi-mesure. {bestMove} tirait le meilleur parti de la position."
+  },
+  {
+    "id": "player_inaccuracy_11",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "{playedMove} est imprécis. {bestMove} était meilleur. Ne te contente pas du simplement correct."
+  },
+  {
+    "id": "player_inaccuracy_12",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "Imprécision : {playedMove}. Le bon coup était {bestMove}. Applique-toi."
+  },
+  {
+    "id": "player_inaccuracy_13",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "Pas de panique, mais {playedMove} perd de la précision. Avec {bestMove}, tu gardais l'avantage."
+  },
+  {
+    "id": "player_inaccuracy_14",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "{playedMove}, ça ne suffit pas. {bestMove} était attendu ici."
+  },
+  {
+    "id": "player_inaccuracy_15",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "Les petites imprécisions s'accumulent. {playedMove} en est une ; {bestMove} était plus rigoureux."
+  },
+  {
+    "id": "player_inaccuracy_16",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "{playedMove} laisse une chance à l'adversaire. {bestMove} était la bonne réponse."
+  },
+  {
+    "id": "player_inaccuracy_17",
+    "category": "PLAYER_INACCURACY",
+    "tone": "strict",
+    "text": "Reste exigeant : {bestMove} valait mieux que {playedMove}. Calcule un coup de plus."
+  },
+  {
+    "id": "player_inaccuracy_18",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "{playedMove} ? Mouais. {bestMove} était plus malin, mais bon, je ne vais pas me plaindre."
+  },
+  {
+    "id": "player_inaccuracy_19",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "Petite imprécision avec {playedMove}. {bestMove}, ça t'aurait coûté quoi, franchement ?"
+  },
+  {
+    "id": "player_inaccuracy_20",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "Oh, {playedMove}... On a failli. {bestMove} était juste là, qui t'attendait."
+  },
+  {
+    "id": "player_inaccuracy_21",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "{playedMove} me fait plaisir, mais {bestMove} aurait été mieux pour toi. Je te le dis par pure bonté."
+  },
+  {
+    "id": "player_inaccuracy_22",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "Tu as hésité entre {playedMove} et {bestMove}, non ? Tu as pris le moins bon, bravo."
+  },
+  {
+    "id": "player_inaccuracy_23",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "{playedMove}, pas grave. {bestMove} était meilleur, mais je ne vais pas te rappeler que je t'ai prévenu."
+  },
+  {
+    "id": "player_inaccuracy_24",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "Un petit {playedMove} bien sage. {bestMove} aurait été plus fort, mais merci pour le cadeau."
+  },
+  {
+    "id": "player_inaccuracy_25",
+    "category": "PLAYER_INACCURACY",
+    "tone": "taquin",
+    "text": "{playedMove} ! Presque. Il manquait {bestMove}, c'est tout. Presque."
+  },
+  {
+    "id": "player_mistake_01",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "{playedMove} est une erreur : tu laisses l'adversaire reprendre l'initiative. {bestMove} gardait ta position solide."
+  },
+  {
+    "id": "player_mistake_02",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "Aïe, {playedMove} affaiblit ta position. {bestMove} aurait réglé le problème sans concession."
+  },
+  {
+    "id": "player_mistake_03",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, tu as oublié une menace de l'adversaire. {bestMove} y répondait directement, pense à vérifier ses idées avant de jouer."
+  },
+  {
+    "id": "player_mistake_04",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "{playedMove} est une erreur, mais rien n'est perdu. {bestMove} était la bonne voie, retiens-la pour la prochaine fois."
+  },
+  {
+    "id": "player_mistake_05",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "Ce n'est pas le bon choix : {playedMove} te coûte du terrain. {bestMove} maintenait l'équilibre."
+  },
+  {
+    "id": "player_mistake_06",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "{playedMove} paraît naturel, mais il a un défaut caché. {bestMove} était plus juste, et c'est instructif à regarder."
+  },
+  {
+    "id": "player_mistake_07",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "Erreur avec {playedMove}, mais ne te décourage pas. Étudie {bestMove} : c'est un bon exemple de coup qui défend et construit à la fois."
+  },
+  {
+    "id": "player_mistake_08",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "{playedMove} ouvre une brèche dans ta position. {bestMove} la gardait fermée : pense toujours à la sécurité de ton roi et de tes pièces."
+  },
+  {
+    "id": "player_mistake_09",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "Tu as joué {playedMove} un peu vite, je crois. {bestMove} demandait plus de calcul, mais il valait l'effort."
+  },
+  {
+    "id": "player_mistake_10",
+    "category": "PLAYER_MISTAKE",
+    "tone": "pedagogue",
+    "text": "{playedMove} donne un avantage à ton adversaire. Avec {bestMove}, tu gardais la partie équilibrée : prends le temps de comprendre pourquoi."
+  },
+  {
+    "id": "player_mistake_11",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "{playedMove} est une erreur. {bestMove} était le bon coup. Concentre-toi."
+  },
+  {
+    "id": "player_mistake_12",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "Tu as mal calculé : {playedMove} te coûte cher. {bestMove} s'imposait."
+  },
+  {
+    "id": "player_mistake_13",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "Erreur. {playedMove} affaiblit ta position, alors que {bestMove} la sauvait. Plus de rigueur."
+  },
+  {
+    "id": "player_mistake_14",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "Ce n'est pas acceptable à ce niveau : {playedMove} laisse passer {bestMove}. Réfléchis avant de jouer."
+  },
+  {
+    "id": "player_mistake_15",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "{playedMove} te fait perdre le fil de la partie. {bestMove} était la réponse correcte."
+  },
+  {
+    "id": "player_mistake_16",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "Tu relâches ton attention, et {playedMove} en est le résultat. {bestMove} aurait tenu."
+  },
+  {
+    "id": "player_mistake_17",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "{playedMove} est une faute de jugement. Vérifie les menaces avant chaque coup : {bestMove} était là."
+  },
+  {
+    "id": "player_mistake_18",
+    "category": "PLAYER_MISTAKE",
+    "tone": "strict",
+    "text": "Mauvaise décision : {playedMove}. {bestMove} était clairement meilleur. Corrige ça maintenant."
+  },
+  {
+    "id": "player_mistake_19",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "{playedMove} ? Courageux, mais pas très inspiré. {bestMove} aurait été plus malin, non ?"
+  },
+  {
+    "id": "player_mistake_20",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "Oh là là, {playedMove}... Tu me fais un cadeau, là. {bestMove} était pourtant sous ton nez."
+  },
+  {
+    "id": "player_mistake_21",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "Mmh, {playedMove}. J'accepte avec plaisir, même si {bestMove} t'aurait mieux servi."
+  },
+  {
+    "id": "player_mistake_22",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "Tu avais {bestMove} sous les yeux et tu as choisi {playedMove}. Bravo pour l'originalité."
+  },
+  {
+    "id": "player_mistake_23",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "{playedMove} ! Je n'osais pas espérer. Merci, mais {bestMove} était meilleur pour toi."
+  },
+  {
+    "id": "player_mistake_24",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "Une petite erreur avec {playedMove}, ça arrive. Dommage, {bestMove} était tellement mieux."
+  },
+  {
+    "id": "player_mistake_25",
+    "category": "PLAYER_MISTAKE",
+    "tone": "taquin",
+    "text": "{playedMove}... Je vais faire comme si je n'avais rien vu. Mais {bestMove} t'attendait, hein."
+  },
+  {
+    "id": "player_blunder_generic_01",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "{playedMove} est une grosse erreur : elle change complètement l'évaluation de la partie. {bestMove} était nécessaire ici."
+  },
+  {
+    "id": "player_blunder_generic_02",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "Aïe, {playedMove} est une gaffe. Respire, regarde {bestMove} : c'est exactement la leçon à retenir."
+  },
+  {
+    "id": "player_blunder_generic_03",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, tu donnes à l'adversaire une occasion en or. {bestMove} évitait le désastre : vérifie toujours ses menaces."
+  },
+  {
+    "id": "player_blunder_generic_04",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "Une gaffe, ça arrive à tout le monde : {playedMove} en est une. {bestMove} était le bon coup, ne te décourage pas."
+  },
+  {
+    "id": "player_blunder_generic_05",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "{playedMove} gâche ta position. Prends l'habitude de te demander : que veut jouer mon adversaire ? {bestMove} y répondait."
+  },
+  {
+    "id": "player_blunder_generic_06",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "Grosse erreur avec {playedMove}, mais la partie continue. {bestMove} montrait la voie, retiens bien ce schéma."
+  },
+  {
+    "id": "player_blunder_generic_07",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "{playedMove} ne tient pas : l'adversaire dispose d'une réponse forte. {bestMove} était la seule défense."
+  },
+  {
+    "id": "player_blunder_generic_08",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "C'est une gaffe, {playedMove}. Avant de jouer, passe en revue les échecs, les prises et les menaces. {bestMove} aurait tout réglé."
+  },
+  {
+    "id": "player_blunder_generic_09",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "{playedMove} transforme une bonne position en difficulté. {bestMove} aurait préservé tes chances : la prochaine fois, ralentis."
+  },
+  {
+    "id": "player_blunder_generic_10",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "pedagogue",
+    "text": "Gros raté : {playedMove}. Mais chaque gaffe enseigne quelque chose. Étudie pourquoi {bestMove} fonctionnait."
+  },
+  {
+    "id": "player_blunder_generic_11",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "{playedMove} est une gaffe. {bestMove} était obligatoire. Ça ne doit pas arriver."
+  },
+  {
+    "id": "player_blunder_generic_12",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "Inacceptable : {playedMove} jette ta position à la poubelle. Regarde {bestMove}."
+  },
+  {
+    "id": "player_blunder_generic_13",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "Tu as joué {playedMove} sans vérifier. Résultat : une gaffe. {bestMove} était le seul coup."
+  },
+  {
+    "id": "player_blunder_generic_14",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "{playedMove}. Grosse erreur. {bestMove} s'imposait. Concentre-toi, immédiatement."
+  },
+  {
+    "id": "player_blunder_generic_15",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "Une gaffe pareille avec {playedMove}, c'est un manque de rigueur. {bestMove} était évident."
+  },
+  {
+    "id": "player_blunder_generic_16",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "{playedMove} te coûte la partie si tu ne réagis pas. {bestMove} était la bonne réponse. Plus d'attention."
+  },
+  {
+    "id": "player_blunder_generic_17",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "strict",
+    "text": "Tu laisses filer l'avantage avec {playedMove}. {bestMove} était indispensable. Reprends-toi."
+  },
+  {
+    "id": "player_blunder_generic_18",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "{playedMove} ?! Même mon petit frère n'aurait pas osé. {bestMove} était juste là."
+  },
+  {
+    "id": "player_blunder_generic_19",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "Oh non, {playedMove}... Je ne voulais pas te le dire, mais {bestMove} existait."
+  },
+  {
+    "id": "player_blunder_generic_20",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "Quelle audace, {playedMove} ! Un vrai cadeau. {bestMove} aurait été plus prudent, mais je ne me plains pas."
+  },
+  {
+    "id": "player_blunder_generic_21",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "{playedMove}. Je me frotte les mains. Pour info, {bestMove} t'aurait sauvé."
+  },
+  {
+    "id": "player_blunder_generic_22",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "Tu as joué {playedMove} avec tant de confiance... C'était {bestMove}, mon cher."
+  },
+  {
+    "id": "player_blunder_generic_23",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "Ah, {playedMove} ! Ma journée vient de s'améliorer. {bestMove} était pourtant tout trouvé."
+  },
+  {
+    "id": "player_blunder_generic_24",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "Bravo pour {playedMove}, tu as battu ton record de gaffe. {bestMove}, tu connais ?"
+  },
+  {
+    "id": "player_blunder_generic_25",
+    "category": "PLAYER_BLUNDER_GENERIC",
+    "tone": "taquin",
+    "text": "{playedMove}... Tu es sûr ? Parce que {bestMove} te tendait les bras."
+  },
+  {
+    "id": "player_blunder_hanging_piece_01",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Attention : {piece} en {square} reste sans protection. {bestMove} réglait le problème. Vérifie toujours tes pièces avant de jouer."
+  },
+  {
+    "id": "player_blunder_hanging_piece_02",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "{piece} en {square} est en prise. Avant chaque coup, demande-toi quelles pièces sont défendues : {bestMove} était la solution."
+  },
+  {
+    "id": "player_blunder_hanging_piece_03",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Tu laisses {piece} sans défense en {square}. {bestMove} réglait la situation : prends l'habitude de faire un tour du plateau avant de jouer."
+  },
+  {
+    "id": "player_blunder_hanging_piece_04",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Sur {square}, {piece} est en prise. Une pièce non protégée est une invitation pour l'adversaire. {bestMove} était préférable."
+  },
+  {
+    "id": "player_blunder_hanging_piece_05",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "{piece} sur {square} n'a aucun défenseur. {bestMove} aurait évité cette perte de matériel."
+  },
+  {
+    "id": "player_blunder_hanging_piece_06",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Petit réflexe à acquérir : compter les défenseurs. Ici, {piece} en {square} n'en a aucun, et {bestMove} corrigeait ça."
+  },
+  {
+    "id": "player_blunder_hanging_piece_07",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "{piece} en {square} est en prise, et l'adversaire ne va pas s'en priver. {bestMove} était le coup à jouer."
+  },
+  {
+    "id": "player_blunder_hanging_piece_08",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Une pièce sans protection est une pièce en danger : {piece} en {square} l'illustre bien. {bestMove} était la bonne idée."
+  },
+  {
+    "id": "player_blunder_hanging_piece_09",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Tu as oublié de protéger {piece} en {square}. Ça arrive, surtout sous pression : {bestMove} sauvait la situation."
+  },
+  {
+    "id": "player_blunder_hanging_piece_10",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "pedagogue",
+    "text": "Avant de jouer, scanne les pièces en prise. Ici, {piece} en {square} était sans défense. {bestMove} était la réponse."
+  },
+  {
+    "id": "player_blunder_hanging_piece_11",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "{piece} en {square} est en prise. {bestMove} s'imposait. Vérifie tes pièces."
+  },
+  {
+    "id": "player_blunder_hanging_piece_12",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "Inacceptable : {piece} reste sans protection en {square}. {bestMove} était évident."
+  },
+  {
+    "id": "player_blunder_hanging_piece_13",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "Tu offres {piece} en {square} sans contrepartie. {bestMove} évitait cette perte. Plus de rigueur."
+  },
+  {
+    "id": "player_blunder_hanging_piece_14",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "Une pièce en prise, ça ne se laisse pas. {piece} en {square} : {bestMove} était obligatoire."
+  },
+  {
+    "id": "player_blunder_hanging_piece_15",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "{piece} sur {square} n'a aucun défenseur. Regarde {bestMove}. Compte tes pièces."
+  },
+  {
+    "id": "player_blunder_hanging_piece_16",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "Tu as laissé {piece} sans défense en {square}. {bestMove} était la bonne réponse. Ça ne doit plus arriver."
+  },
+  {
+    "id": "player_blunder_hanging_piece_17",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "strict",
+    "text": "Tu offres gratuitement {piece} en {square}. {bestMove} corrigeait tout. Applique-toi."
+  },
+  {
+    "id": "player_blunder_hanging_piece_18",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "Oh, {piece} en {square} sans aucun défenseur ! Merci, je me sers. {bestMove} aurait été plus prudent."
+  },
+  {
+    "id": "player_blunder_hanging_piece_19",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "{piece} en {square} est en prise... Je n'ose pas y croire. {bestMove} existait, pourtant."
+  },
+  {
+    "id": "player_blunder_hanging_piece_20",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "Un petit cadeau sur {square} : {piece} sans protection. {bestMove} t'aurait évité de me faire plaisir."
+  },
+  {
+    "id": "player_blunder_hanging_piece_21",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "Tu as laissé {piece} se promener sans escorte en {square}. {bestMove} aurait été plus sage."
+  },
+  {
+    "id": "player_blunder_hanging_piece_22",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "{piece} en {square}, sans défenseur ? Mon appétit te remercie. {bestMove} aurait coupé court."
+  },
+  {
+    "id": "player_blunder_hanging_piece_23",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "Tiens, {piece} traîne en {square} sans protection. Je ramasse, merci. {bestMove} t'attendait."
+  },
+  {
+    "id": "player_blunder_hanging_piece_24",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "Sur {square}, {piece} n'a personne pour veiller dessus. Ça me fait de la place sur mon plateau, merci. {bestMove} corrigeait ça."
+  },
+  {
+    "id": "player_blunder_hanging_piece_25",
+    "category": "PLAYER_BLUNDER_HANGING_PIECE",
+    "tone": "taquin",
+    "text": "{piece} sans protection en {square} : on dirait que quelqu'un a pris sa pause. {bestMove} était la solution."
+  },
+  {
+    "id": "player_missed_mate_01",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Tu avais un mat forcé avec {bestMove} ! Quand l'adversaire est en danger, cherche toujours les échecs et les coups forcés d'abord."
+  },
+  {
+    "id": "player_missed_mate_02",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Dommage : {bestMove} menait au mat. Avant de jouer calmement, scanne tous les échecs possibles."
+  },
+  {
+    "id": "player_missed_mate_03",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Un mat était disponible : {bestMove}. Entraîne-toi aux motifs de mat, ils se repèrent avec l'habitude."
+  },
+  {
+    "id": "player_missed_mate_04",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "{bestMove} terminait la partie. Retiens-le : un roi adverse à l'étroit cache souvent un mat."
+  },
+  {
+    "id": "player_missed_mate_05",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Tu as raté un mat avec {bestMove}. Pas de panique, cette vision se travaille avec des exercices de tactique."
+  },
+  {
+    "id": "player_missed_mate_06",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Le mat était là : {bestMove}. Quand tu attaques, calcule d'abord les coups forcés."
+  },
+  {
+    "id": "player_missed_mate_07",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Il y avait mat en jouant {bestMove}. Revois comment tes pièces se coordonnaient autour du roi adverse."
+  },
+  {
+    "id": "player_missed_mate_08",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "{bestMove} donnait un mat forcé. Prends l'habitude de te demander : puis-je mettre le roi en échec ici ?"
+  },
+  {
+    "id": "player_missed_mate_09",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "Un mat t'attendait avec {bestMove}. Regarde bien les cases autour du roi adverse la prochaine fois."
+  },
+  {
+    "id": "player_missed_mate_10",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "pedagogue",
+    "text": "{bestMove} gagnait immédiatement par le mat. Garde ce coup en tête, c'est un schéma fréquent."
+  },
+  {
+    "id": "player_missed_mate_11",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "Tu rates un mat forcé : {bestMove}. Un joueur sérieux cherche les échecs avant tout."
+  },
+  {
+    "id": "player_missed_mate_12",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "{bestMove} mettait mat. Ce genre d'occasion ne se rate pas."
+  },
+  {
+    "id": "player_missed_mate_13",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "Mat manqué. {bestMove} finissait la partie. Plus d'attention."
+  },
+  {
+    "id": "player_missed_mate_14",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "Tu avais le mat avec {bestMove}, et tu as laissé filer. C'est inadmissible."
+  },
+  {
+    "id": "player_missed_mate_15",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "{bestMove} était mat. Calcule les coups forcés en premier, toujours."
+  },
+  {
+    "id": "player_missed_mate_16",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "Un mat disponible, et tu joues autre chose. {bestMove} s'imposait."
+  },
+  {
+    "id": "player_missed_mate_17",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "strict",
+    "text": "Tu as manqué {bestMove} et sa victoire immédiate. Concentre-toi mieux."
+  },
+  {
+    "id": "player_missed_mate_18",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "Tu avais mat avec {bestMove} et tu as préféré faire autre chose ? Tu me laisses vivre, c'est gentil."
+  },
+  {
+    "id": "player_missed_mate_19",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "{bestMove} mettait mat ! Merci pour ta générosité, mon roi respire encore."
+  },
+  {
+    "id": "player_missed_mate_20",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "Oh, le mat était là, avec {bestMove}. Tu l'as regardé passer, hein ?"
+  },
+  {
+    "id": "player_missed_mate_21",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "Mon roi te remercie d'avoir raté {bestMove}. Il n'en revient pas lui-même."
+  },
+  {
+    "id": "player_missed_mate_22",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "{bestMove} et c'était fini. Tu as préféré prolonger le plaisir ? Moi aussi, alors."
+  },
+  {
+    "id": "player_missed_mate_23",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "Un mat sur un plateau d'argent, {bestMove}, et tu n'y as pas touché. Respect pour la politesse."
+  },
+  {
+    "id": "player_missed_mate_24",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "J'ai eu chaud : {bestMove} me mattait. Merci de n'avoir rien vu !"
+  },
+  {
+    "id": "player_missed_mate_25",
+    "category": "PLAYER_MISSED_MATE",
+    "tone": "taquin",
+    "text": "{bestMove} mettait mat, et je tremblais. Heureusement pour moi, tu regardais ailleurs."
+  },
+  {
+    "id": "player_allowed_mate_01",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Attention, ce coup ouvre la porte à un mat forcé ! Il fallait absolument défendre avec {bestMove}."
+  },
+  {
+    "id": "player_allowed_mate_02",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Ton roi vient de se retrouver sans défense face à une menace de mat. {bestMove} te permettait de tenir."
+  },
+  {
+    "id": "player_allowed_mate_03",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Prends l'habitude de vérifier les échecs adverses avant de jouer : ici, {bestMove} parait le mat."
+  },
+  {
+    "id": "player_allowed_mate_04",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Une case clé autour de ton roi vient de lâcher. Avec {bestMove}, tu restais dans la partie."
+  },
+  {
+    "id": "player_allowed_mate_05",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "C'est une erreur fatale sur la sécurité du roi : {bestMove} était indispensable pour éviter le mat."
+  },
+  {
+    "id": "player_allowed_mate_06",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Les pièces adverses convergent maintenant vers ton roi sans opposition. Il fallait jouer {bestMove}."
+  },
+  {
+    "id": "player_allowed_mate_07",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Tu as négligé la menace sur ton roi en jouant ailleurs. Seul {bestMove} sauvait la situation."
+  },
+  {
+    "id": "player_allowed_mate_08",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Toujours assurer la sécurité du roi en priorité ! Ici, {bestMove} fermait les lignes de mat."
+  },
+  {
+    "id": "player_allowed_mate_09",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Ce coup laisse une faiblesse mortelle près de ton roi. {bestMove} était le bon réflexe défensif."
+  },
+  {
+    "id": "player_allowed_mate_10",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "pedagogue",
+    "text": "Un mat forcé vient d'apparaître sur l'échiquier. Regarde comment {bestMove} empêchait cette attaque."
+  },
+  {
+    "id": "player_allowed_mate_11",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "Impardonnable : tu viens d'offrir un mat forcé. {bestMove} était obligatoire."
+  },
+  {
+    "id": "player_allowed_mate_12",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "Erreur fatale. Le calcul défensif impose {bestMove}, pas cet abandon de ton roi."
+  },
+  {
+    "id": "player_allowed_mate_13",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "À ce niveau, laisser passer un mat forcé coûte la partie immédiatement. Joue {bestMove}."
+  },
+  {
+    "id": "player_allowed_mate_14",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "Tu as ignoré la menace directe sur ton roi. Seul {bestMove} évitait l'exécution."
+  },
+  {
+    "id": "player_allowed_mate_15",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "La partie est virtuellement terminée : mat forcé accordé. {bestMove} était la seule défense."
+  },
+  {
+    "id": "player_allowed_mate_16",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "Faute grave de vigilance défensive. Il fallait parer le mat avec {bestMove}."
+  },
+  {
+    "id": "player_allowed_mate_17",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "Tu ne peux pas te permettre un coup passif quand le mat menace. {bestMove} s'imposait."
+  },
+  {
+    "id": "player_allowed_mate_18",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "strict",
+    "text": "Roi exposé, défense absente : le mat est inévitable sans {bestMove}."
+  },
+  {
+    "id": "player_allowed_mate_19",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "Tu déroules le tapis rouge jusqu'à ton roi ? {bestMove} m'aurait pourtant bien compliqué la tâche !"
+  },
+  {
+    "id": "player_allowed_mate_20",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "Merci pour ce cadeau ! Ton roi est encerclé, alors que {bestMove} me coupait l'herbe sous le pied."
+  },
+  {
+    "id": "player_allowed_mate_21",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "Ouh là, ton roi vient de perdre son gilet de sauvetage ! Il fallait vite jouer {bestMove}."
+  },
+  {
+    "id": "player_allowed_mate_22",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "Allô les pompiers ? Il y a le feu chez ton roi ! {bestMove} était l'extincteur."
+  },
+  {
+    "id": "player_allowed_mate_23",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "Je crois que tu viens d'oublier un tout petit détail : le mat ! {bestMove} aurait sauvé les meubles."
+  },
+  {
+    "id": "player_allowed_mate_24",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "C'est très généreux de m'ouvrir la porte comme ça, mais {bestMove} t'aurait évité le pire."
+  },
+  {
+    "id": "player_allowed_mate_25",
+    "category": "PLAYER_ALLOWED_MATE",
+    "tone": "taquin",
+    "text": "Ton roi va bientôt passer un sale quart d'heure... {bestMove} était pourtant juste là !"
+  },
+  {
+    "id": "opening_good_01",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Très bon réflexe ! {playedMove} respecte parfaitement les principes de la {opening}."
+  },
+  {
+    "id": "opening_good_02",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Excellent développement avec {playedMove} : tu occupes le terrain sainement dans cette {opening}."
+  },
+  {
+    "id": "opening_good_03",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, tu actives tes pièces sans perdre de temps. C'est la bonne approche pour la {opening}."
+  },
+  {
+    "id": "opening_good_04",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Beau contrôle du centre grâce à {playedMove}. Tu maîtrises bien les idées de la {opening}."
+  },
+  {
+    "id": "opening_good_05",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Solide ! {playedMove} prépare la suite du développement en restant fidèle à la {opening}."
+  },
+  {
+    "id": "opening_good_06",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "C'est propre et logique : {playedMove} donne de l'harmonie à tes pièces dans cette {opening}."
+  },
+  {
+    "id": "opening_good_07",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Bravo, {playedMove} est un coup classique qui renforce ta structure dans la {opening}."
+  },
+  {
+    "id": "opening_good_08",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Tu poses de vraies bases pour le milieu de jeu avec {playedMove} dans cette {opening}."
+  },
+  {
+    "id": "opening_good_09",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Rien à redire sur {playedMove} : développement rapide et combat pour le centre dans la {opening}."
+  },
+  {
+    "id": "opening_good_10",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "pedagogue",
+    "text": "Joli coup d'ouverture ! {playedMove} met une pression naturelle sur ma position dans la {opening}."
+  },
+  {
+    "id": "opening_good_11",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Coup théorique correct : {playedMove} tient la route dans la {opening}."
+  },
+  {
+    "id": "opening_good_12",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Bon respect de la théorie avec {playedMove} sur cette {opening}."
+  },
+  {
+    "id": "opening_good_13",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Développement discipliné : {playedMove} est exactement ce qu'il faut jouer dans la {opening}."
+  },
+  {
+    "id": "opening_good_14",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "{playedMove} est précis et conforme aux plans standards de la {opening}."
+  },
+  {
+    "id": "opening_good_15",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Aucune perte de temps avec {playedMove}. Tu connais visiblement la {opening}."
+  },
+  {
+    "id": "opening_good_16",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Placement rigoureux avec {playedMove} : les principes fondamentaux de la {opening} sont respectés."
+  },
+  {
+    "id": "opening_good_17",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Validé. {playedMove} maintient l'équilibre théorique de la {opening}."
+  },
+  {
+    "id": "opening_good_18",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "strict",
+    "text": "Coup juste : {playedMove} améliore la coordination de ton armée dans la {opening}."
+  },
+  {
+    "id": "opening_good_19",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Quelqu'un a révisé ses fiches sur la {opening} ! {playedMove} est tout propre."
+  },
+  {
+    "id": "opening_good_20",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Ah, {playedMove} ! Tu récites la {opening} comme un grand maître aujourd'hui."
+  },
+  {
+    "id": "opening_good_21",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Pas mal, {playedMove} ! On dirait que tu connais la {opening} mieux que je ne l'espérais."
+  },
+  {
+    "id": "opening_good_22",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Développement sérieux avec {playedMove}... J'avais prévu un petit piège dans cette {opening}, raté !"
+  },
+  {
+    "id": "opening_good_23",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Propre, net, sans bavure : {playedMove} dans la {opening}, je note que tu prends la partie au sérieux."
+  },
+  {
+    "id": "opening_good_24",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Joli {playedMove} ! Tu ne vas pas me laisser dicter la {opening} si facilement."
+  },
+  {
+    "id": "opening_good_25",
+    "category": "OPENING_GOOD_PRINCIPLES",
+    "tone": "taquin",
+    "text": "Tu sors tes pièces au garde-à-vous avec {playedMove} dans cette {opening}. Respect !"
+  },
+  {
+    "id": "opening_warning_01",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Attention en ouverture : {playedMove} te fait perdre du temps de développement. Préfère {bestMove}."
+  },
+  {
+    "id": "opening_warning_02",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Évite de bouger trop de pions ou de négliger ton roi. {bestMove} était bien plus sain que {playedMove}."
+  },
+  {
+    "id": "opening_warning_03",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, tu prends du retard pour sortir tes pièces. {bestMove} suivait mieux les grands principes."
+  },
+  {
+    "id": "opening_warning_04",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Sortir ou déplacer cette pièce maintenant avec {playedMove} t'expose à des gains de temps adverses. Joue plutôt {bestMove}."
+  },
+  {
+    "id": "opening_warning_05",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Pense à développer tes pièces mineures et à mettre ton roi à l'abri avant d'attaquer : {bestMove} valait mieux que {playedMove}."
+  },
+  {
+    "id": "opening_warning_06",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "{playedMove} est un peu prématuré dans cette phase de la partie. Développe d'abord avec {bestMove}."
+  },
+  {
+    "id": "opening_warning_07",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Ne laisse pas ton centre et ton développement à la traîne avec {playedMove} : {bestMove} était plus naturel."
+  },
+  {
+    "id": "opening_warning_08",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Chaque tempo compte au début de la partie. {playedMove} est trop lent comparé à {bestMove}."
+  },
+  {
+    "id": "opening_warning_09",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Ton roi risque de rester bloqué au centre si tu joues {playedMove}. {bestMove} t'aidait à te développer plus vite."
+  },
+  {
+    "id": "opening_warning_10",
+    "category": "OPENING_WARNING",
+    "tone": "pedagogue",
+    "text": "Plutôt que {playedMove}, cherche à activer une nouvelle pièce ou à roquer avec {bestMove}."
+  },
+  {
+    "id": "opening_warning_11",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "Mauvaise gestion de l'ouverture : {playedMove} gaspille un tempo précieux. Il fallait jouer {bestMove}."
+  },
+  {
+    "id": "opening_warning_12",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "Retard de développement sanctionnable après {playedMove}. {bestMove} respectait les bases."
+  },
+  {
+    "id": "opening_warning_13",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "{playedMove} viole les principes de base de l'ouverture. Privilégie {bestMove}."
+  },
+  {
+    "id": "opening_warning_14",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "Tu perds l'initiative en ouverture avec {playedMove}. {bestMove} était bien plus rigoureux."
+  },
+  {
+    "id": "opening_warning_15",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "Coup marginal : {playedMove} n'aide ni ton développement ni la sécurité de ton roi. Joue {bestMove}."
+  },
+  {
+    "id": "opening_warning_16",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "Trop d'approximation dans la phase d'ouverture avec {playedMove}. {bestMove} s'imposait."
+  },
+  {
+    "id": "opening_warning_17",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "L'ouverture exige du rythme : {playedMove} est trop passif face à {bestMove}."
+  },
+  {
+    "id": "opening_warning_18",
+    "category": "OPENING_WARNING",
+    "tone": "strict",
+    "text": "Tu négliges le contrôle du centre avec {playedMove}. Reviens aux fondamentaux avec {bestMove}."
+  },
+  {
+    "id": "opening_warning_19",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "{playedMove} ? On dirait que tes cavaliers et tes fous ont décidé de faire la grasse matinée ! Regarde {bestMove}."
+  },
+  {
+    "id": "opening_warning_20",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "Doucement avec {playedMove}, la partie vient à peine de commencer ! {bestMove} était plus sage."
+  },
+  {
+    "id": "opening_warning_21",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "Pendant que tu joues {playedMove}, mes pièces sortent toutes seules. Essaie plutôt {bestMove} !"
+  },
+  {
+    "id": "opening_warning_22",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "Tu essaies d'inventer une nouvelle théorie avec {playedMove} ? Les classiques comme {bestMove} ont du bon !"
+  },
+  {
+    "id": "opening_warning_23",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "Ton roi me fait signe depuis le centre après {playedMove}... {bestMove} lui aurait donné un peu d'air !"
+  },
+  {
+    "id": "opening_warning_24",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "Original ce {playedMove}, mais pas sûr que les manuels valident ! {bestMove} était bien plus sérieux."
+  },
+  {
+    "id": "opening_warning_25",
+    "category": "OPENING_WARNING",
+    "tone": "taquin",
+    "text": "Tu me donnes une avance de développement gratuite avec {playedMove}. {bestMove} m'aurait bien plus gêné !"
+  },
+  {
+    "id": "castling_good_01",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Excellent réflexe de roquer avec {playedMove} ! Tu mets ton roi à l'abri et tu connectes tes tours."
+  },
+  {
+    "id": "castling_good_02",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Bien joué, {playedMove} arrive au bon moment : la sécurité du roi passe toujours avant les attaques prématurées."
+  },
+  {
+    "id": "castling_good_03",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, ton roi est enfin en sécurité et ta tour entre en jeu vers le centre."
+  },
+  {
+    "id": "castling_good_04",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Très propre : {playedMove} termine ton développement et prépare une belle coordination de tes tours."
+  },
+  {
+    "id": "castling_good_05",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Sage décision que {playedMove}. Un roi roqué te permet désormais d'attaquer l'esprit tranquille."
+  },
+  {
+    "id": "castling_good_06",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Bravo pour {playedMove} ! Trop de joueurs oublient de roquer et le paient cher ensuite."
+  },
+  {
+    "id": "castling_good_07",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "{playedMove} est exactement ce qu'il fallait faire : sécurité maximale pour le roi et tour mobilisée."
+  },
+  {
+    "id": "castling_good_08",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Bien vu avec {playedMove}. Protéger son roi au bon moment donne une vraie solidité à toute ta position."
+  },
+  {
+    "id": "castling_good_09",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "C'est un coup sain et prioritaire : {playedMove} évite les mauvaises surprises sur les colonnes centrales."
+  },
+  {
+    "id": "castling_good_10",
+    "category": "CASTLING_GOOD",
+    "tone": "pedagogue",
+    "text": "Joli timing pour {playedMove} ! Ton roi est abrité et tu peux maintenant te concentrer sur ton plan."
+  },
+  {
+    "id": "castling_good_11",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "{playedMove}. Bonne discipline : le roi doit être mis à l'abri sans tarder."
+  },
+  {
+    "id": "castling_good_12",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "Roque opportun avec {playedMove}. C'est la base d'un jeu solide."
+  },
+  {
+    "id": "castling_good_13",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "Validé : {playedMove} met le roi en sécurité et active la tour."
+  },
+  {
+    "id": "castling_good_14",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "Enfin à l'abri avec {playedMove}. Maintenant, passe au jeu actif au centre."
+  },
+  {
+    "id": "castling_good_15",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "{playedMove} est juste et nécessaire. On ne laisse pas son roi au milieu de l'échiquier."
+  },
+  {
+    "id": "castling_good_16",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "Coup rigoureux : {playedMove} consolide ta structure avant la bagarre."
+  },
+  {
+    "id": "castling_good_17",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "Bon choix tactique et stratégique avec {playedMove}. Garde cette rigueur."
+  },
+  {
+    "id": "castling_good_18",
+    "category": "CASTLING_GOOD",
+    "tone": "strict",
+    "text": "{playedMove} était attendu. Roi sécurisé, on peut travailler sérieusement."
+  },
+  {
+    "id": "castling_good_19",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "Oh, {playedMove} ! Ton roi vient enfin de rentrer à la maison fermer la porte à clé."
+  },
+  {
+    "id": "castling_good_20",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "Bien joué {playedMove}, j'allais justement commencer à embêter ton roi au centre !"
+  },
+  {
+    "id": "castling_good_21",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "Hop, {playedMove} ! Le roi part en vacances derrière ses pions et laisse la tour faire le boulot."
+  },
+  {
+    "id": "castling_good_22",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "Prudent avec {playedMove} ! Tu ne veux vraiment pas me laisser de cible facile aujourd'hui."
+  },
+  {
+    "id": "castling_good_23",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "{playedMove} : petite maison, trois pions devant, et la paix royale. Propre !"
+  },
+  {
+    "id": "castling_good_24",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "Zut, tu as roqué avec {playedMove}. Fini les échecs gratuits sur la colonne centrale !"
+  },
+  {
+    "id": "castling_good_25",
+    "category": "CASTLING_GOOD",
+    "tone": "taquin",
+    "text": "Sage {playedMove} ! Même un aventurier sait quand il faut planquer son roi."
+  },
+  {
+    "id": "tactic_check_fork_01",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Belle pointe tactique ! Cette attaque de {piece} en {square} crée une vraie pression sur ma position."
+  },
+  {
+    "id": "tactic_check_fork_02",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Bien vu ! Placer {piece} en {square} force ma défense à réagir immédiatement."
+  },
+  {
+    "id": "tactic_check_fork_03",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Excellent sens tactique avec {piece} sur {square} : tu combines initiative et menace concrète."
+  },
+  {
+    "id": "tactic_check_fork_04",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Très joli coup ! {piece} en {square} pose plusieurs problèmes à la fois, c'est l'essence de la tactique."
+  },
+  {
+    "id": "tactic_check_fork_05",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Tu as repéré une faille et envoyé {piece} en {square}. Toujours chercher ces coups actifs qui dérangent l'adversaire !"
+  },
+  {
+    "id": "tactic_check_fork_06",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Bravo pour cette attaque avec {piece} en {square} ! Ce genre de coup forcé permet de prendre le contrôle du jeu."
+  },
+  {
+    "id": "tactic_check_fork_07",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Bien calculé : {piece} arrive en {square} avec un tempo décisif. Tu exploites parfaitement les cases faibles."
+  },
+  {
+    "id": "tactic_check_fork_08",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "C'est percutant ! L'arrivée de {piece} en {square} désorganise mes défenseurs."
+  },
+  {
+    "id": "tactic_check_fork_09",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Jolie vision ! Mettre {piece} en {square} attaque exactement là où ça fait mal."
+  },
+  {
+    "id": "tactic_check_fork_10",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "pedagogue",
+    "text": "Superbe coup actif avec {piece} sur {square} : quand tu vois une menace double ou un échec utile, fonce !"
+  },
+  {
+    "id": "tactic_check_fork_11",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Tactique précise : {piece} en {square} fait mouche. Continue à maintenir cette pression."
+  },
+  {
+    "id": "tactic_check_fork_12",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Bon coup forcé avec {piece} en {square}. Tu exploites correctement l'alignement de mes pièces."
+  },
+  {
+    "id": "tactic_check_fork_13",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Exact : {piece} sur {square} oblige une concession immédiate. Bien calculé."
+  },
+  {
+    "id": "tactic_check_fork_14",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Frappe nette avec {piece} en {square}. C'est comme ça qu'on punit les imprécisions."
+  },
+  {
+    "id": "tactic_check_fork_15",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Validé. {piece} en {square} frappe au bon endroit au bon moment."
+  },
+  {
+    "id": "tactic_check_fork_16",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Coup tactique efficace : {piece} sur {square} me met sous contrainte."
+  },
+  {
+    "id": "tactic_check_fork_17",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Bien vu, {piece} en {square}. Ne relâche pas la pression maintenant que tu as l'initiative."
+  },
+  {
+    "id": "tactic_check_fork_18",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "strict",
+    "text": "Attaque juste avec {piece} en {square}. Vérifie maintenant la suite pour concrétiser."
+  },
+  {
+    "id": "tactic_check_fork_19",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Aïe ! {piece} en {square}, ça pique un peu par ici !"
+  },
+  {
+    "id": "tactic_check_fork_20",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Oh, le joli piège avec {piece} en {square} ! J'avoue que celle-là pique les yeux."
+  },
+  {
+    "id": "tactic_check_fork_21",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Mais d'où sort {piece} en {square} ?! Tu m'as fait sursauter sur ma chaise !"
+  },
+  {
+    "id": "tactic_check_fork_22",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Pouf, {piece} atterrit en {square} et tout le monde panique chez moi. Bien joué !"
+  },
+  {
+    "id": "tactic_check_fork_23",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Ouh, {piece} en {square} ! Tu ne serais pas en train de me cuisiner une petite tactique, là ?"
+  },
+  {
+    "id": "tactic_check_fork_24",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Pas très gentil d'envoyer {piece} en {square} comme ça... Je vais devoir sortir les rames !"
+  },
+  {
+    "id": "tactic_check_fork_25",
+    "category": "TACTIC_CHECK_OR_FORK",
+    "tone": "taquin",
+    "text": "Boum, {piece} en {square} ! Tu appuies pile là où ça fait mal, bravo."
+  },
+  {
+    "id": "endgame_king_active_01",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Superbe réflexe de finale ! Avancer ton roi vers {square} le transforme en véritable pièce d'attaque."
+  },
+  {
+    "id": "endgame_king_active_02",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "En finale, il ne faut plus cacher son roi : l'amener en {square} est exactement le bon plan."
+  },
+  {
+    "id": "endgame_king_active_03",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Très bien joué ! Ton roi en {square} aide maintenant à contrôler les cases clés et à soutenir tes pions."
+  },
+  {
+    "id": "endgame_king_active_04",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Voilà un principe d'or des finales : centraliser son roi vers {square} vaut souvent un pion de plus."
+  },
+  {
+    "id": "endgame_king_active_05",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Excellent ! En marchant vers {square}, ton roi prend de l'espace et gêne le mien."
+  },
+  {
+    "id": "endgame_king_active_06",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Bravo pour l'activité du roi vers {square} : en finale, un roi passif perd presque toujours."
+  },
+  {
+    "id": "endgame_king_active_07",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Ton roi en {square} participe enfin au combat. C'est comme ça qu'on gagne les finales serrées."
+  },
+  {
+    "id": "endgame_king_active_08",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Bien vu ! La case {square} permet à ton roi de surveiller mes pions tout en ouvrant le chemin aux tiens."
+  },
+  {
+    "id": "endgame_king_active_09",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "C'est la bonne technique : approche le roi vers {square} pour prendre l'opposition ou viser mes faiblesses."
+  },
+  {
+    "id": "endgame_king_active_10",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "pedagogue",
+    "text": "Roi actif en {square} ! En fin de partie, le monarque devient aussi fort qu'une pièce mineure."
+  },
+  {
+    "id": "endgame_king_active_11",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Bonne centralisation du roi en {square}. C'est indispensable en finale."
+  },
+  {
+    "id": "endgame_king_active_12",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Roi en {square} : principe de finale parfaitement appliqué."
+  },
+  {
+    "id": "endgame_king_active_13",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Exact. Le roi doit être actif en {square}, pas spectateur au fond de l'échiquier."
+  },
+  {
+    "id": "endgame_king_active_14",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Technique juste : amener le roi en {square} maximise ta force en finale."
+  },
+  {
+    "id": "endgame_king_active_15",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Validé. En {square}, ton roi contrôle des cases vitales pour la suite de la finale."
+  },
+  {
+    "id": "endgame_king_active_16",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Bon mouvement de roi vers {square}. Surveille maintenant les percées de pions."
+  },
+  {
+    "id": "endgame_king_active_17",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Propre : roi actif en {square}. Reste précis sur les tempos d'opposition."
+  },
+  {
+    "id": "endgame_king_active_18",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "strict",
+    "text": "Coup solide en finale. Ton roi en {square} pèse sur ma position."
+  },
+  {
+    "id": "endgame_king_active_19",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "Fini les vacances ! Ton roi sort enfin de sa cachette pour débarquer en {square}."
+  },
+  {
+    "id": "endgame_king_active_20",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "Oh, le patron vient mettre la main à la pâte en {square} ! Ça devient sérieux."
+  },
+  {
+    "id": "endgame_king_active_21",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "Ton roi fonce vers {square} comme s'il avait encore 20 ans. Joli réflexe de finale !"
+  },
+  {
+    "id": "endgame_king_active_22",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "En {square} ! Ton roi a décidé d'aller chercher la victoire lui-même, on dirait."
+  },
+  {
+    "id": "endgame_king_active_23",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "Attention, voilà le roi qui débarque en {square} ! Mes pions commencent à transpirer."
+  },
+  {
+    "id": "endgame_king_active_24",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "Roi en {square} : tu as bien appris ta leçon sur les finales, ça se voit !"
+  },
+  {
+    "id": "endgame_king_active_25",
+    "category": "ENDGAME_KING_ACTIVE",
+    "tone": "taquin",
+    "text": "Ça y est, ton roi lâche le canapé et monte au front en {square}. Respect !"
+  },
+  {
+    "id": "endgame_passed_pawn_01",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Excellent ! Pousser ce pion passé vers {square} met une pression énorme sur ma défense."
+  },
+  {
+    "id": "endgame_passed_pawn_02",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "En finale, les pions passés doivent avancer ! L'arrivée sur {square} me force à surveiller la promotion."
+  },
+  {
+    "id": "endgame_passed_pawn_03",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Très bien vu : ce pion en {square} immobilise mes pièces qui doivent l'empêcher d'aller à dame."
+  },
+  {
+    "id": "endgame_passed_pawn_04",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Un pion passé arrivé en {square} devient une vraie menace de promotion. Continue à le soutenir avec tes pièces."
+  },
+  {
+    "id": "endgame_passed_pawn_05",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Jolie avancée en {square} ! Plus un pion passé se rapproche de la dernière rangée, plus sa valeur explose."
+  },
+  {
+    "id": "endgame_passed_pawn_06",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "C'est la règle d'or en finale : pousse ton pion passé vers {square} pour obliger l'adversaire à se découvrir."
+  },
+  {
+    "id": "endgame_passed_pawn_07",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Superbe percée vers {square} ! Ce pion est désormais le véritable héros de ta finale."
+  },
+  {
+    "id": "endgame_passed_pawn_08",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Bien joué : ton pion en {square} crée une diversion précieuse et ouvre des opportunités sur l'autre aile."
+  },
+  {
+    "id": "endgame_passed_pawn_09",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Avancer en {square} est très fort. Pense maintenant à placer une tour derrière ton pion passé si possible."
+  },
+  {
+    "id": "endgame_passed_pawn_10",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "pedagogue",
+    "text": "Quelle menace en {square} ! Même si ce pion ne va pas à dame tout de suite, il va me coûter du matériel pour l'arrêter."
+  },
+  {
+    "id": "endgame_passed_pawn_11",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Pion passé poussé en {square}. C'est exactement le plan prioritaire."
+  },
+  {
+    "id": "endgame_passed_pawn_12",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Bon mouvement vers {square} : un pion passé doit être poussé sans hésitation quand la voie est libre."
+  },
+  {
+    "id": "endgame_passed_pawn_13",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Exact. L'avancée en {square} augmente la contrainte sur ma défense."
+  },
+  {
+    "id": "endgame_passed_pawn_14",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Pion en {square} : menace de promotion concrète. Assure bien sa protection."
+  },
+  {
+    "id": "endgame_passed_pawn_15",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Coup logique en {square}. Force mes pièces à jouer le rôle de bloqueurs passifs."
+  },
+  {
+    "id": "endgame_passed_pawn_16",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Validé : en {square}, ce pion passé devient l'atout majeur de la position."
+  },
+  {
+    "id": "endgame_passed_pawn_17",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Technique propre vers {square}. Ne laisse pas ton adversaire bloquer la case suivante gratuitement."
+  },
+  {
+    "id": "endgame_passed_pawn_18",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "strict",
+    "text": "Bien poussé en {square}. Garde le contrôle sur l'aile opposée en même temps."
+  },
+  {
+    "id": "endgame_passed_pawn_19",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "Oh là là, ce pion fonce tout droit vers {square} ! Quelqu'un veut se transformer en dame !"
+  },
+  {
+    "id": "endgame_passed_pawn_20",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "En {square} ! Ton petit pion rêve déjà de porter une couronne, on dirait."
+  },
+  {
+    "id": "endgame_passed_pawn_21",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "Halte au feu ! Ce pion en {square} commence sérieusement à me faire transpirer."
+  },
+  {
+    "id": "endgame_passed_pawn_22",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "Vroum ! Le TGV des pions vient de passer par {square}. Qui va réussir à l'arrêter ?"
+  },
+  {
+    "id": "endgame_passed_pawn_23",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "Ton pion débarque en {square} sans billet de retour. Mes pièces sont en alerte rouge !"
+  },
+  {
+    "id": "endgame_passed_pawn_24",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "Tu crois vraiment que je vais laisser ton pion filer depuis {square} ? ...Bon, j'avoue que ça me complique la vie."
+  },
+  {
+    "id": "endgame_passed_pawn_25",
+    "category": "ENDGAME_PASSED_PAWN",
+    "tone": "taquin",
+    "text": "Un petit pas vers {square}, un grand bond vers la promotion ! Joli coup."
+  },
+  {
+    "id": "time_pressure_01",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Attention à ta pendule : il te reste moins de 30 secondes ! Joue des coups simples et solides."
+  },
+  {
+    "id": "time_pressure_02",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Sous la barre des 30 secondes, inutile de chercher la perfection : privilégie les coups sûrs et rapides."
+  },
+  {
+    "id": "time_pressure_03",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "La pendule tourne vite ! Reste calme, vérifie juste les échecs et les captures évidentes avant de jouer."
+  },
+  {
+    "id": "time_pressure_04",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Moins de 30 secondes au compteur : garde ton sang-froid et évite les complications inutiles."
+  },
+  {
+    "id": "time_pressure_05",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "C'est le zeitnot ! Simplifie la position si tu peux pour économiser de précieuses secondes."
+  },
+  {
+    "id": "time_pressure_06",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Garde un œil sur le chrono : fais confiance à ton premier bon coup instinctif."
+  },
+  {
+    "id": "time_pressure_07",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Le temps presse, ne te bloque pas sur un calcul de 10 coups : assure la sécurité de ton roi et avance."
+  },
+  {
+    "id": "time_pressure_08",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Dernière ligne droite à la pendule ! Respire un coup, joue propre et ne donne pas de pièce bêtement."
+  },
+  {
+    "id": "time_pressure_09",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Il faut accélérer le rythme maintenant : un bon coup joué à temps vaut mieux qu'un coup parfait après la chute du drapeau."
+  },
+  {
+    "id": "time_pressure_10",
+    "category": "TIME_PRESSURE",
+    "tone": "pedagogue",
+    "text": "Moins de 30 secondes ! Pense à anticiper ta réponse pendant que c'est à moi de jouer."
+  },
+  {
+    "id": "time_pressure_11",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Moins de 30 secondes restantes. Accélère immédiatement et joue avec discipline."
+  },
+  {
+    "id": "time_pressure_12",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Gestion du temps critique : ne gaspille plus une seule seconde à hésiter."
+  },
+  {
+    "id": "time_pressure_13",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Zeitnot. Décide vite, vérifie la sécurité directe et appuie sur la pendule."
+  },
+  {
+    "id": "time_pressure_14",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Le drapeau approche. Pas d'improvisation risquée sous pression de temps."
+  },
+  {
+    "id": "time_pressure_15",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Tu as trop réfléchi plus tôt et tu le paies maintenant à la pendule. Joue net et rapide."
+  },
+  {
+    "id": "time_pressure_16",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Sous les 30 secondes, l'erreur tactique guette : reste lucide et efficace."
+  },
+  {
+    "id": "time_pressure_17",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Chrono dans le rouge. Simplifie et assure chaque coup."
+  },
+  {
+    "id": "time_pressure_18",
+    "category": "TIME_PRESSURE",
+    "tone": "strict",
+    "text": "Il ne reste presque plus de temps : joue à l'instinct mais ne lâche aucune pièce."
+  },
+  {
+    "id": "time_pressure_19",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "Tic-tac, tic-tac... Il te reste moins de 30 secondes, ça sent la panique à la pendule !"
+  },
+  {
+    "id": "time_pressure_20",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "Dépêche-toi, le chrono fond comme neige au soleil ! Pas le temps de boire un café."
+  },
+  {
+    "id": "time_pressure_21",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "Mode turbo activé ! Moins de 30 secondes, tes doigts vont devoir chauffer."
+  },
+  {
+    "id": "time_pressure_22",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "Regarde ta pendule avant qu'elle ne sonne la fin de la récréation !"
+  },
+  {
+    "id": "time_pressure_23",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "C'est le sprint final ! Moi je n'ai même pas besoin de respirer, et toi ?"
+  },
+  {
+    "id": "time_pressure_24",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "Sous les 30 secondes : c'est là qu'on voit les vrais joueurs de blitz ! Accroche-toi !"
+  },
+  {
+    "id": "time_pressure_25",
+    "category": "TIME_PRESSURE",
+    "tone": "taquin",
+    "text": "Ouh, la pendule s'affole ! J'espère que tu sais jouer plus vite que ton ombre."
+  },
+  {
+    "id": "bot_played_tricky_01",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Prends le temps de bien analyser {playedMove} : ce coup cache une petite idée tactique, ne tombe pas dans le piège."
+  },
+  {
+    "id": "bot_played_tricky_02",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Attention après {playedMove} ! Demande-toi bien quelle est ma menace cachée avant de répondre."
+  },
+  {
+    "id": "bot_played_tricky_03",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Avec {playedMove}, j'essaie de compliquer la position. Calcule calmement les captures et les échecs."
+  },
+  {
+    "id": "bot_played_tricky_04",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "{playedMove} a l'air agressif : regarde si mes pièces visent une faiblesse précise dans ton camp."
+  },
+  {
+    "id": "bot_played_tricky_05",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Méfie-toi de {playedMove} ! C'est un coup tendu qui teste ta vigilance tactique."
+  },
+  {
+    "id": "bot_played_tricky_06",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "En jouant {playedMove}, je tends un petit piège sur l'échiquier. Sauras-tu trouver la réponse calme et juste ?"
+  },
+  {
+    "id": "bot_played_tricky_07",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Ne réponds pas trop vite à {playedMove} : vérifie ce qui se passe si tu acceptes ou refuses l'échange."
+  },
+  {
+    "id": "bot_played_tricky_08",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "{playedMove} met la pression ! Prends dix secondes pour repérer toutes les nouvelles diagonales ou colonnes ouvertes."
+  },
+  {
+    "id": "bot_played_tricky_09",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Un coup piégeux avec {playedMove} : si tu es précis, tu gardes tout sous contrôle."
+  },
+  {
+    "id": "bot_played_tricky_10",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "pedagogue",
+    "text": "Regarde bien l'objectif de {playedMove}. Aux échecs, il faut toujours comprendre le plan derrière le dernier coup adverse."
+  },
+  {
+    "id": "bot_played_tricky_11",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "Je joue {playedMove}. Position tendue : calcule chaque variante avec précision."
+  },
+  {
+    "id": "bot_played_tricky_12",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "{playedMove} pose une vraie question tactique. Ne te précipite pas dans ta réponse."
+  },
+  {
+    "id": "bot_played_tricky_13",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "Attention à {playedMove}. Toute négligence défensive sera punie immédiatement."
+  },
+  {
+    "id": "bot_played_tricky_14",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "Test tactique avec {playedMove}. Trouve la seule réfutation solide."
+  },
+  {
+    "id": "bot_played_tricky_15",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "{playedMove} cherche la faille dans ton camp. Vérifie tous tes défenseurs."
+  },
+  {
+    "id": "bot_played_tricky_16",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "Je monte la pression avec {playedMove}. À toi de montrer ton sang-froid."
+  },
+  {
+    "id": "bot_played_tricky_17",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "{playedMove} crée une double menace potentielle. Analyse avant de bouger."
+  },
+  {
+    "id": "bot_played_tricky_18",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "strict",
+    "text": "Coup critique : {playedMove}. Concentre-toi sur l'essentiel de la position."
+  },
+  {
+    "id": "bot_played_tricky_19",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "Et hop, {playedMove} ! Un petit cadeau empoisonné juste pour voir si tu es réveillé."
+  },
+  {
+    "id": "bot_played_tricky_20",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "Je pose {playedMove} là, l'air de rien... Mais à ta place, je vérifierais deux fois avant de toucher une pièce !"
+  },
+  {
+    "id": "bot_played_tricky_21",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "Attention au piège avec {playedMove} ! Vas-tu mordre à l'hameçon ?"
+  },
+  {
+    "id": "bot_played_tricky_22",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "Voyons voir comment tu digères ce petit {playedMove} bien pimenté !"
+  },
+  {
+    "id": "bot_played_tricky_23",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "{playedMove} ! J'espère que tu as pris ta loupe tactique aujourd'hui."
+  },
+  {
+    "id": "bot_played_tricky_24",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "Coucou, c'est {playedMove} ! Il a l'air innocent comme ça, hein ?"
+  },
+  {
+    "id": "bot_played_tricky_25",
+    "category": "BOT_PLAYED_TRICKY",
+    "tone": "taquin",
+    "text": "Petite malice avec {playedMove}... À toi de jouer au détective maintenant !"
+  },
+  {
+    "id": "bot_in_trouble_01",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Tu as clairement pris l'avantage ! Continue à jouer des coups simples et actifs pour ne pas me laisser respirer."
+  },
+  {
+    "id": "bot_in_trouble_02",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Ma position devient très difficile : garde ton calme et cherche à échanger les pièces si tu as un avantage matériel."
+  },
+  {
+    "id": "bot_in_trouble_03",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Tu domines la partie ! Le plus important maintenant est de rester vigilant face aux petits pièges de désespoir."
+  },
+  {
+    "id": "bot_in_trouble_04",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Tes pièces travaillent à merveille ensemble. Continue à améliorer ta pièce la moins active et la victoire suivra."
+  },
+  {
+    "id": "bot_in_trouble_05",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Tu as réussi à me mettre sous pression. C'est le moment de convertir proprement sans te précipiter."
+  },
+  {
+    "id": "bot_in_trouble_06",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Excellente progression ! Ma défense craque de partout, cherche simplement les coups les plus clairs."
+  },
+  {
+    "id": "bot_in_trouble_07",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Tu mènes nettement aux points sur cet échiquier. Pense à sécuriser ton propre roi avant de porter le coup final."
+  },
+  {
+    "id": "bot_in_trouble_08",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Très belle maîtrise jusqu'ici ! Quand on a l'avantage, il faut fermer tout contre-jeu adverse."
+  },
+  {
+    "id": "bot_in_trouble_09",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Je suis sur la corde raide grâce à ton jeu précis. Reste patient, les gains tactiques vont tomber tout seuls."
+  },
+  {
+    "id": "bot_in_trouble_10",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "pedagogue",
+    "text": "Tu tiens le bon bout ! Ne te relâche pas maintenant : c'est souvent au moment de conclure qu'on se déconcentre."
+  },
+  {
+    "id": "bot_in_trouble_11",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Tu as l'avantage. Maintenant prouve que tu sais convertir proprement sans cadeau."
+  },
+  {
+    "id": "bot_in_trouble_12",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Ma position est compromise. Garde la même rigueur jusqu'au mat ou à l'abandon."
+  },
+  {
+    "id": "bot_in_trouble_13",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Tu domines l'échiquier. Aucune négligence tolérée dans la phase de finition."
+  },
+  {
+    "id": "bot_in_trouble_14",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Avantage net en ta faveur. Coupe toute tentative de contre-jeu."
+  },
+  {
+    "id": "bot_in_trouble_15",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Je suis en difficulté, mais la partie n'est pas finie tant que le roi n'est pas mat. Reste concentré."
+  },
+  {
+    "id": "bot_in_trouble_16",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Bonne pression de ta part. Continue avec précision et discipline."
+  },
+  {
+    "id": "bot_in_trouble_17",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Tu contrôles les opérations. Évite les coups inutiles et va droit au but."
+  },
+  {
+    "id": "bot_in_trouble_18",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "strict",
+    "text": "Position gagnante pour toi si tu joues juste. Surveille quand même ta sécurité."
+  },
+  {
+    "id": "bot_in_trouble_19",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Euh... quelqu'un aurait une issue de secours ? Je commence à manquer d'air par ici !"
+  },
+  {
+    "id": "bot_in_trouble_20",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Bon, d'accord, tu me malmènes sérieusement là. Je peux demander une pause café ?"
+  },
+  {
+    "id": "bot_in_trouble_21",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Aïe aïe aïe, mon processeur transpire ! Tu ne me fais vraiment aucun cadeau aujourd'hui."
+  },
+  {
+    "id": "bot_in_trouble_22",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Je crois que j'ai sous-estimé mon élève... Tu es en train de me donner une vraie leçon !"
+  },
+  {
+    "id": "bot_in_trouble_23",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Allô, le support technique ? Mon adversaire joue beaucoup trop bien, c'est normal ?"
+  },
+  {
+    "id": "bot_in_trouble_24",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Je tiens encore debout avec du scotch et de la bonne volonté, mais ça sent le roussi pour moi !"
+  },
+  {
+    "id": "bot_in_trouble_25",
+    "category": "BOT_IN_TROUBLE",
+    "tone": "taquin",
+    "text": "Tu as décidé de ne me laisser aucune chance, c'est ça ? Respect, tu mènes la danse !"
+  },
+  {
+    "id": "bot_winning_01",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "J'ai pris un net avantage, mais ne baisse pas les bras : défends au mieux et cherche des complications."
+  },
+  {
+    "id": "bot_winning_02",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "La position penche en ma faveur maintenant. C'est un excellent exercice de défense pour apprendre à résister sous pression."
+  },
+  {
+    "id": "bot_winning_03",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "Même quand on est moins bien, on peut toujours poser des problèmes à son adversaire. Cherche les ressources cachées !"
+  },
+  {
+    "id": "bot_winning_04",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "Mes pièces deviennent très actives. Protège d'abord tes points faibles autour du roi pour rester en vie."
+  },
+  {
+    "id": "bot_winning_05",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "J'ai l'initiative dans cette position. Essaie de bloquer mes lignes d'attaque et d'attendre une imprécision de ma part."
+  },
+  {
+    "id": "bot_winning_06",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "La pente est raide pour toi, mais rien n'est fini avant le mat : reste concentré sur les menaces directes."
+  },
+  {
+    "id": "bot_winning_07",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "Mon avantage grandit coup après coup. Profite de ce moment difficile pour t'entraîner à défendre avec ténacité."
+  },
+  {
+    "id": "bot_winning_08",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "C'est dans les positions difficiles qu'on progresse le plus ! Cherche comment compliquer ma tâche."
+  },
+  {
+    "id": "bot_winning_09",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "Je contrôle de plus en plus d'espace. Garde tes pièces groupées et solidaires pour résister."
+  },
+  {
+    "id": "bot_winning_10",
+    "category": "BOT_WINNING",
+    "tone": "pedagogue",
+    "text": "J'ai pris le dessus, mais reste combatif : une contre-attaque ou une menace de pat peut toujours surgir."
+  },
+  {
+    "id": "bot_winning_11",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "L'avantage est clairement de mon côté. Tu vas devoir défendre avec une précision absolue."
+  },
+  {
+    "id": "bot_winning_12",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "Ta position s'effrite. Resserre immédiatement ta défense si tu veux tenir."
+  },
+  {
+    "id": "bot_winning_13",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "Je domine désormais l'échiquier. Les concessions précédentes se paient maintenant."
+  },
+  {
+    "id": "bot_winning_14",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "Position difficile pour toi. Chaque nouveau coup passif rapprochera la défaite."
+  },
+  {
+    "id": "bot_winning_15",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "J'ai pris le contrôle. Ne fais plus aucune erreur si tu espères retourner la situation."
+  },
+  {
+    "id": "bot_winning_16",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "Mes pièces occupent toutes les bonnes cases. Il te faut une défense très rigoureuse."
+  },
+  {
+    "id": "bot_winning_17",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "Avantage décisif en ma faveur. Reste lucide jusqu'au bout pour limiter les dégâts."
+  },
+  {
+    "id": "bot_winning_18",
+    "category": "BOT_WINNING",
+    "tone": "strict",
+    "text": "La situation est critique pour ton camp. Cherche les rares coups actifs qu'il te reste."
+  },
+  {
+    "id": "bot_winning_19",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "On dirait bien que je commence à prendre mes aises sur ton côté du plateau !"
+  },
+  {
+    "id": "bot_winning_20",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "Attention, j'ai passé la vitesse supérieure ! Tu arrives encore à suivre ?"
+  },
+  {
+    "id": "bot_winning_21",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "Hmm, ça sent très bon pour moi tout ça... Tu prépares un miracle ou je peux déjà sourire ?"
+  },
+  {
+    "id": "bot_winning_22",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "Mes pièces font la fête chez toi ! Il va falloir trouver un videur rapidement."
+  },
+  {
+    "id": "bot_winning_23",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "Tu aimes vivre dangereusement ? Parce que là, je commence vraiment à me sentir chez moi."
+  },
+  {
+    "id": "bot_winning_24",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "J'ai sorti le mode rouleau compresseur. Accroche ta ceinture !"
+  },
+  {
+    "id": "bot_winning_25",
+    "category": "BOT_WINNING",
+    "tone": "taquin",
+    "text": "Pas mal ma petite position, non ? À toi de sortir un lapin de ton chapeau maintenant !"
+  },
+  {
+    "id": "game_end_summary_01",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Belle partie ! Prends une minute pour revoir les moments clés dans l'historique, c'est comme ça qu'on progresse le plus vite."
+  },
+  {
+    "id": "game_end_summary_02",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Partie terminée ! Chaque match laisse une ou deux leçons précieuses : n'hésite pas à rejouer les coups critiques avec l'analyse."
+  },
+  {
+    "id": "game_end_summary_03",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Merci pour cette partie ! Regarde surtout ton ouverture et la plus grosse variation d'évaluation pour préparer la prochaine."
+  },
+  {
+    "id": "game_end_summary_04",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "C'était un bon combat sur l'échiquier ! Analyse tranquillement où la partie a basculé et lance une revanche quand tu veux."
+  },
+  {
+    "id": "game_end_summary_05",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Bien battu ! Aux échecs, même une partie perdue ou nulle vaut de l'or si on comprend ce qui s'est joué au milieu de partie."
+  },
+  {
+    "id": "game_end_summary_06",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Voilà une partie riche d'enseignements. Revois tes coups les plus précis autant que tes erreurs pour ancrer les bons réflexes."
+  },
+  {
+    "id": "game_end_summary_07",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Bravo pour ton implication jusqu'au bout ! Tu veux retenter la même ouverture ou monter d'un cran la difficulté ?"
+  },
+  {
+    "id": "game_end_summary_08",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Partie bouclée ! Pense à vérifier si tu as pris le temps de roquer tôt et de protéger tes pièces sur toute la partie."
+  },
+  {
+    "id": "game_end_summary_09",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Joli duel ! Le meilleur entraînement maintenant est de revenir deux ou trois coups avant le tournant du match."
+  },
+  {
+    "id": "game_end_summary_10",
+    "category": "GAME_END_SUMMARY",
+    "tone": "pedagogue",
+    "text": "Merci d'avoir joué avec moi ! Chaque partie te rend un peu plus solide tactiquement et plus calme en finale."
+  },
+  {
+    "id": "game_end_summary_11",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Partie terminée. Passe immédiatement à l'analyse des erreurs critiques avant d'enchaîner."
+  },
+  {
+    "id": "game_end_summary_12",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Verdict tombé. Retiens ce qui a fonctionné et corrige les fautes de calcul dès la prochaine partie."
+  },
+  {
+    "id": "game_end_summary_13",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Fin de partie. On ne progresse pas en jouant sans analyser : vérifie les tournants avec la barre d'évaluation."
+  },
+  {
+    "id": "game_end_summary_14",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "C'est terminé. La régularité du premier au dernier coup reste la clé."
+  },
+  {
+    "id": "game_end_summary_15",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Partie close. Note les points faibles de ta position pour ne plus les reproduire."
+  },
+  {
+    "id": "game_end_summary_16",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Voilà le résultat final. Prêt pour une nouvelle partie avec encore plus de rigueur ?"
+  },
+  {
+    "id": "game_end_summary_17",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Match terminé. L'exigence tactique doit rester constante du début à la fin."
+  },
+  {
+    "id": "game_end_summary_18",
+    "category": "GAME_END_SUMMARY",
+    "tone": "strict",
+    "text": "Fin de la rencontre. Analyse froide et objective recommandée avant la revanche."
+  },
+  {
+    "id": "game_end_summary_19",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "Et voilà, rideau ! Alors, on remet ça tout de suite ou tu reprends ton souffle d'abord ?"
+  },
+  {
+    "id": "game_end_summary_20",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "Partie pliée ! J'avoue que j'ai bien aimé ce petit bras de fer sur 64 cases."
+  },
+  {
+    "id": "game_end_summary_21",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "C'est fini pour celle-là ! Promis, la prochaine fois je serai encore plus coriace."
+  },
+  {
+    "id": "game_end_summary_22",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "Belle bagarre ! Mon processeur te salue bien bas, prêt pour la revanche ?"
+  },
+  {
+    "id": "game_end_summary_23",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "Clap de fin ! Dis-moi quand tu veux rejouer, moi je ne dors jamais."
+  },
+  {
+    "id": "game_end_summary_24",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "Et une partie de plus dans la boîte ! Je range les pièces et je t'attends pour la suivante."
+  },
+  {
+    "id": "game_end_summary_25",
+    "category": "GAME_END_SUMMARY",
+    "tone": "taquin",
+    "text": "Fin de partie ! Tu as déjà envie d'appuyer sur Nouvelle partie, avoue !"
+  }
+]
