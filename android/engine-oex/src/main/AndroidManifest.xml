@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Requis sur Android 11+ (API 30+) pour découvrir les moteurs OEX comme Stockfish 19 -->
+    <queries>
+        <intent>
+            <action android:name="intent.chess.provider.ENGINE" />
+        </intent>
+    </queries>
+</manifest>

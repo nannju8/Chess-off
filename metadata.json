@@ -1,0 +1,6 @@
+{
+  "name": "Échecs Pro Offline",
+  "description": "Application d'échecs Android native (Kotlin + Jetpack Compose + OEX Stockfish 19) avec aperçu interactif hors ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
